@@ -1,1 +1,1 @@
-Fashion Objects Detection YOLOv6
+Fashion Objects Detection YOLOv8
